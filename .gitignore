@@ -1,0 +1,8 @@
+### Python cache ###
+__pycache__
+
+### Environmental variables ###
+*.env
+
+### Databases ###
+*.db
